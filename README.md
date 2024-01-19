@@ -22,18 +22,20 @@ Tech Used: C#, MYSQL, MSSQL Server 2019
 A desktop application for Dr. S. Narendran which can store patient details and prescribe medicine. The prescriptions are stored in the database and can be reprinted whenever required. The application also has the complete medical database of medicines and can print cover letters.
 Tech Used: C#, MYSQL, MSSQL Server 2018
 
-•	aahanamission7894.org [ Jun 2018 ]
+**•	aahanamission7894.org [ Jun 2018 ]**
 
 Developed and hosted a web application for a non-charitable organization using WordPress.
 
-•	MedDocs Intelligence [ Feb 2018 – Jun 2018 ]
+**•	MedDocs Intelligence [ Feb 2018 – Jun 2018 ]**
 
 The web application is all about gathering documents, managing and the collective data of all documents needs to be shared actively for all the employees to perform well on the concepts of pharmaceutical guidelines or terminologies.
-Tech Used: HTML5, CSS, Angular JS, PHP, MYSQL
 
-•	GetFit [ Mar 2017 – May 2017 ]
+**Tech Used: HTML5, CSS, Angular JS, PHP, MYSQL**
+
+**•	GetFit [ Mar 2017 – May 2017 ]**
 
 An online fitness info and fitness product selling web application, where people can get to know various fitness practices and can also buy the required products online.
-Tech Used: HTML5, CSS, JS, PHP, MYSQL
+
+**Tech Used: HTML5, CSS, JS, PHP, MYSQL**
 
 
