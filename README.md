@@ -1,5 +1,3 @@
-# Project Portfolio
-
 # C# .NET Projects
 **•	Doctor Prescription Software [ Oct 2021 - Dec 2021 ]**
 
