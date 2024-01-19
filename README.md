@@ -7,7 +7,7 @@ A thin client application for A S Hospiital in which doctors can prescribe medic
 
 **Tech Used: C#, MYSQL, MSSQL Server 2019**
 
-**•	MedCareDS [ Nov 2020 - Jan 2021 ] **
+**•	MedCareDS [ Nov 2020 - Jan 2021 ]**
 
 A desktop application for Dr. Shanmugam Child Health Clinic where doctors can store patient details and prescribe medicine. The application has the complete medical database of medicines and can print hospital cover letters. The prescriptions are stored in the database and can be reprinted whenever required.
 Tech Used: C#, MYSQL, MSSQL Server 2019
