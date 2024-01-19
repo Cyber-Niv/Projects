@@ -1,23 +1,23 @@
 # Project Portfolio
 
 # C# .NET Projects
-•	Doctor Prescription Software [ Oct 2021 - Dec 2021 ]
+**•	Doctor Prescription Software [ Oct 2021 - Dec 2021 ]**
 
 A thin client application for A S Hospiital in which doctors can prescribe medicines and print prescriptions. The prescriptions are stored in MSSQL server database over the internet and can be reprinted whenever required. The application which retrieves data from Microsoft access database and stores the retrieved data in Microsoft SQL Server over the internet.
 
-Tech Used: C#, MYSQL, MSSQL Server 2019
+**Tech Used: C#, MYSQL, MSSQL Server 2019**
 
-•	MedCareDS [ Nov 2020 - Jan 2021 ] 
+**•	MedCareDS [ Nov 2020 - Jan 2021 ] **
 
 A desktop application for Dr. Shanmugam Child Health Clinic where doctors can store patient details and prescribe medicine. The application has the complete medical database of medicines and can print hospital cover letters. The prescriptions are stored in the database and can be reprinted whenever required.
 Tech Used: C#, MYSQL, MSSQL Server 2019
 
-•	MedCare Lab [ Jan 2020 - Mar 2020 ]
+**•	MedCare Lab [ Jan 2020 - Mar 2020 ]**
 
 A desktop application for Lab Technicians where the Lab reports are stored in the database and can be printed anytime over the internet.
 Tech Used: C#, MYSQL, MSSQL Server 2019
 
-•	MedCareNS [ Dec 2019 - Feb 2020 ]
+**•	MedCareNS [ Dec 2019 - Feb 2020 ]**
 
 A desktop application for Dr. S. Narendran which can store patient details and prescribe medicine. The prescriptions are stored in the database and can be reprinted whenever required. The application also has the complete medical database of medicines and can print cover letters.
 Tech Used: C#, MYSQL, MSSQL Server 2018
