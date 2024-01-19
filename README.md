@@ -2,6 +2,7 @@
 
 # C# .NET Projects
 •	Doctor Prescription Software [ Oct 2021 - Dec 2021 ]
+
 A thin client application for A S Hospiital in which doctors can prescribe medicines and print prescriptions. The prescriptions are stored in MSSQL server database over the internet and can be reprinted whenever required. The application which retrieves data from Microsoft access database and stores the retrieved data in Microsoft SQL Server over the internet.
 Tech Used: C#, MYSQL, MSSQL Server 2019
 
